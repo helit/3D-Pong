@@ -22,7 +22,7 @@ function Pong(props) {
     height: 5,
     depth: 1
   }
-  const hitAngleModifier = 2;
+  const hitAngleModifier = 1.5;
 
   // Ball
   const ball = useRef();

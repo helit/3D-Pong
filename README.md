@@ -1,4 +1,4 @@
-# Three.JS-React
+# 3D Pong
 
 Testing react-three-fiber renderer for three.js
 
